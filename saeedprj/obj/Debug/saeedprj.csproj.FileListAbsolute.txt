@@ -1,0 +1,42 @@
+C:\Users\Saeed Haider\source\repos\saeedprj\saeedprj\obj\Debug\saeedprj.csproj.AssemblyReference.cache
+C:\Users\Saeed Haider\source\repos\saeedprj\saeedprj\obj\Debug\saeedprj.Form1.resources
+C:\Users\Saeed Haider\source\repos\saeedprj\saeedprj\obj\Debug\saeedprj.Properties.Resources.resources
+C:\Users\Saeed Haider\source\repos\saeedprj\saeedprj\obj\Debug\saeedprj.csproj.GenerateResource.cache
+C:\Users\Saeed Haider\source\repos\saeedprj\saeedprj\obj\Debug\saeedprj.csproj.CoreCompileInputs.cache
+C:\Users\Saeed Haider\source\repos\saeedprj\saeedprj\bin\Debug\saeedprj.exe.config
+C:\Users\Saeed Haider\source\repos\saeedprj\saeedprj\bin\Debug\saeedprj.exe
+C:\Users\Saeed Haider\source\repos\saeedprj\saeedprj\bin\Debug\saeedprj.pdb
+C:\Users\Saeed Haider\source\repos\saeedprj\saeedprj\obj\Debug\saeedprj.exe
+C:\Users\Saeed Haider\source\repos\saeedprj\saeedprj\obj\Debug\saeedprj.pdb
+C:\Users\Awais Butt\Desktop\saeedprj\saeedprj\bin\Debug\saeedprj.exe.config
+C:\Users\Awais Butt\Desktop\saeedprj\saeedprj\bin\Debug\saeedprj.exe
+C:\Users\Awais Butt\Desktop\saeedprj\saeedprj\bin\Debug\saeedprj.pdb
+C:\Users\Awais Butt\Desktop\saeedprj\saeedprj\bin\Debug\Guna.UI.dll
+C:\Users\Awais Butt\Desktop\saeedprj\saeedprj\bin\Debug\Guna.UI2.dll
+C:\Users\Awais Butt\Desktop\saeedprj\saeedprj\obj\Debug\saeedprj.csproj.AssemblyReference.cache
+C:\Users\Awais Butt\Desktop\saeedprj\saeedprj\obj\Debug\saeedprj.Properties.Resources.resources
+C:\Users\Awais Butt\Desktop\saeedprj\saeedprj\obj\Debug\saeedprj.csproj.GenerateResource.cache
+C:\Users\Awais Butt\Desktop\saeedprj\saeedprj\obj\Debug\saeedprj.csproj.CoreCompileInputs.cache
+C:\Users\Awais Butt\Desktop\saeedprj\saeedprj\obj\Debug\saeedprj.csproj.Up2Date
+C:\Users\Awais Butt\Desktop\saeedprj\saeedprj\obj\Debug\saeedprj.exe
+C:\Users\Awais Butt\Desktop\saeedprj\saeedprj\obj\Debug\saeedprj.pdb
+C:\Users\Awais Butt\Desktop\saeedprj\saeedprj\obj\Debug\saeedprj.coachmanage.resources
+C:\Users\Awais Butt\Desktop\saeedprj\saeedprj\obj\Debug\saeedprj.membershipsmanage.resources
+C:\Users\Awais Butt\Desktop\saeedprj\saeedprj\obj\Debug\saeedprj.membermanage.resources
+C:\Users\Awais Butt\Desktop\saeedprj\saeedprj\obj\Debug\saeedprj.Billingmanage.resources
+C:\Users\Awais Butt\Desktop\saeedprj\saeedprj\obj\Debug\saeedprj.Receptionistmanage.resources
+C:\Users\Administrator\Desktop\saeedprj\saeedprj\obj\Debug\saeedprj.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\saeedprj\saeedprj\obj\Debug\saeedprj.Billingmanage.resources
+C:\Users\Administrator\Desktop\saeedprj\saeedprj\obj\Debug\saeedprj.Coachmanage.resources
+C:\Users\Administrator\Desktop\saeedprj\saeedprj\obj\Debug\saeedprj.Receptionistmanage.resources
+C:\Users\Administrator\Desktop\saeedprj\saeedprj\obj\Debug\saeedprj.membershipsmanage.resources
+C:\Users\Administrator\Desktop\saeedprj\saeedprj\obj\Debug\saeedprj.membermanage.resources
+C:\Users\Administrator\Desktop\saeedprj\saeedprj\obj\Debug\saeedprj.Properties.Resources.resources
+C:\Users\Administrator\Desktop\saeedprj\saeedprj\obj\Debug\saeedprj.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\saeedprj\saeedprj\obj\Debug\saeedprj.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\saeedprj\saeedprj\obj\Debug\saeedprj.exe
+C:\Users\Administrator\Desktop\saeedprj\saeedprj\obj\Debug\saeedprj.pdb
+C:\Users\Administrator\Desktop\saeedprj\saeedprj\bin\Debug\saeedprj.exe.config
+C:\Users\Administrator\Desktop\saeedprj\saeedprj\bin\Debug\saeedprj.exe
+C:\Users\Administrator\Desktop\saeedprj\saeedprj\bin\Debug\saeedprj.pdb
+C:\Users\Administrator\Desktop\saeedprj\saeedprj\obj\Debug\saeedprj.csproj.Up2Date
