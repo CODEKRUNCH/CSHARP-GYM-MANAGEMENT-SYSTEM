@@ -19,4 +19,4 @@ The **Gym Management System** is a **C# Windows Forms Application** designed to 
 ## ⚙️ Installation Guide
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/YOUR_USERNAME/GymManagementSystem.git
+   git clone https://github.com/CODEKRUNCH/CSHARP-GYM-MANAGEMENT-SYSTEM
